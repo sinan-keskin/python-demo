@@ -1,4 +1,3 @@
-```markdown
 # 🐍 python-demo
 
 Basit ama öğretici **Python demo projesi** 🧠  
